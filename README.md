@@ -1,3 +1,3 @@
-# 🥛 Shitswap
+# 💩 Shitswap
 
 More SHIT for everyone soon...
