@@ -6,13 +6,13 @@ const farms: FarmConfig[] = [
     pid: 0,
     lpSymbol: 'SHIT',
     lpAddresses: {
-      97: '0x0D5baC1F158a3f9cEa2ED18C28a4b15b0c3D5436', // SHIT
-      56: '0x0D5baC1F158a3f9cEa2ED18C28a4b15b0c3D5436', // SHIT
+      97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
+      56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
     },
     tokenSymbol: 'FOAM',
     tokenAddresses: {
-      97: '0x07102bC107B84a46cD4C02C220d1d62903b9f96E', // SHIT
-      56: '0x07102bC107B84a46cD4C02C220d1d62903b9f96E', // SHIT
+      97: '0xE6f68D418EDb114338feE73b8f0f94DE320aC94A', // SHIT
+      56: '0xE6f68D418EDb114338feE73b8f0f94DE320aC94A', // SHIT
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -26,8 +26,8 @@ const farms: FarmConfig[] = [
     },
     tokenSymbol: 'SHIT',
     tokenAddresses: {
-      97: '0x0D5baC1F158a3f9cEa2ED18C28a4b15b0c3D5436', // SHIT
-      56: '0x0D5baC1F158a3f9cEa2ED18C28a4b15b0c3D5436', // SHIT
+      97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
+      56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -56,8 +56,8 @@ const farms: FarmConfig[] = [
     },
     tokenSymbol: 'SHIT',
     tokenAddresses: {
-      97: '0x0D5baC1F158a3f9cEa2ED18C28a4b15b0c3D5436', // SHIT
-      56: '0x0D5baC1F158a3f9cEa2ED18C28a4b15b0c3D5436', // SHIT
+      97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
+      56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
     },
     quoteTokenSymbol: QuoteToken.CAKE,
     quoteTokenAdresses: contracts.cake,

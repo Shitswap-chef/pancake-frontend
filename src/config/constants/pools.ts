@@ -5,10 +5,10 @@ const pools: PoolConfig[] = [
     sousId: 0,
     tokenName: 'SHIT',
     stakingTokenName: QuoteToken.SHIT,
-    stakingTokenAddress: '0x0D5baC1F158a3f9cEa2ED18C28a4b15b0c3D5436', // SHIT
+    stakingTokenAddress: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
     contractAddress: {
-      97: '0x7cadd186dF3037e7D85208BE12c14687D8cf5d68', // MasterChef
-      56: '0x7cadd186dF3037e7D85208BE12c14687D8cf5d68', // MasterChef
+      97: '0x6A807D0119712Cb4AE81EcE817a32E4fa4D0Db63', // MasterChef
+      56: '0x6A807D0119712Cb4AE81EcE817a32E4fa4D0Db63', // MasterChef
     },
     poolCategory: PoolCategory.CORE,
     projectLink: 'https://shitswap.app',
