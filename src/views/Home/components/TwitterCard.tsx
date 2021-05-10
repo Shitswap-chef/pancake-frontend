@@ -19,7 +19,7 @@ const TwitterCard = () => {
         <Timeline
           dataSource={{
             sourceType: 'profile',
-            screenName: 'bitcoinkeep'
+            screenName: 'Shitswap1'
           }}
           options={{
             chrome: 'noheader, nofooter',
