@@ -21,8 +21,8 @@ const farms: FarmConfig[] = [
     pid: 1,
     lpSymbol: 'SHIT-BNB LP',
     lpAddresses: {
-      97: '0x6718544961a6008c8c6a21d140ba6900c813876f', // SHIT-BNB LP
-      56: '0x6718544961a6008c8c6a21d140ba6900c813876f', // SHIT-BNB LP
+      97: '0xef3a29acaf49f05f464b3b24cfd96d0f6bef1966', // SHIT-BNB LP
+      56: '0xef3a29acaf49f05f464b3b24cfd96d0f6bef1966', // SHIT-BNB LP
     },
     tokenSymbol: 'SHIT',
     tokenAddresses: {
