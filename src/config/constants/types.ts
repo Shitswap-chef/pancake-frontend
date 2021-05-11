@@ -31,7 +31,6 @@ export enum QuoteToken {
   'UST' = 'UST',
   'ETH' = 'ETH',
   'COMP' = 'COMP',
-  'MILK' = 'MILK',
   'SHIT' = 'SHIT',
 }
 
