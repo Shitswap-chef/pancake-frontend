@@ -60,8 +60,8 @@ export default {
     97: '0x707CBF373175fdB601D34eeBF2Cf665d08f01148', // We don't use it
   },
   eth: {
-    56: '0x2170ed0880ac9a755fd29b2688956bd959f933f8',
-    97: '',
+    56: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
+    97: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
   },
   claimRefund: {
     56: '0xE7e53A7e9E3Cf6b840f167eF69519175c497e149', // We don't use it

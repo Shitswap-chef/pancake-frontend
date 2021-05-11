@@ -58,7 +58,7 @@ const Farms: React.FC = () => {
 
         if (farm.quoteTokenSymbol === QuoteToken.BUSD || farm.quoteTokenSymbol === QuoteToken.UST) {
           apy = cakePriceVsBNB.times(cakeRewardPerYear).div(farm.lpTotalInQuoteToken).times(bnbPrice)
-        } else if (farm.quoteTokenSymbol === QuoteToken.ETH) {
+        } else if (farm.quoteTokenSymbol === QuoteToken.BNB) {
           apy = cakePrice.div(ethPriceUsd).times(cakeRewardPerYear).div(farm.lpTotalInQuoteToken)
         } else if (farm.quoteTokenSymbol === QuoteToken.CAKE) {
           apy = cakeRewardPerYear.div(farm.lpTotalInQuoteToken)
