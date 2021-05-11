@@ -23,7 +23,7 @@ const EarnAssetCard = () => {
   const activeNonCakePools = pools.filter((pool) => !pool.isFinished && !pool.tokenName.includes('SHIT'))
   const latestPools: Pool[] = orderBy(activeNonCakePools, ['sortOrder', 'pid'], ['desc', 'desc']).slice(0, 3)
   // Always include CAKE
-  const assets = ['SHIT', ...latestPools.map((pool) => pool.tokenName)].join(', ')
+  const assets = ['Shit', ...latestPools.map((pool) => pool.tokenName)].join(', ')
 
   return (
     <StyledFarmStakingCard>
