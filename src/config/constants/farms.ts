@@ -4,7 +4,7 @@ import { FarmConfig, QuoteToken } from './types'
 const farms: FarmConfig[] = [
   {
     pid: 0,
-    lpSymbol: 'Shit',
+    lpSymbol: 'SHIT',
     lpAddresses: {
       97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
       56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
@@ -19,12 +19,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 1,
-    lpSymbol: 'Shit-BNB LP',
+    lpSymbol: 'SHIT-BNB LP',
     lpAddresses: {
       97: '0xef3a29acaf49f05f464b3b24cfd96d0f6bef1966', // SHIT-BNB LP
       56: '0xef3a29acaf49f05f464b3b24cfd96d0f6bef1966', // SHIT-BNB LP
     },
-    tokenSymbol: 'Shit',
+    tokenSymbol: 'SHIT',
     tokenAddresses: {
       97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
       56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
@@ -34,7 +34,7 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 2,
-    lpSymbol: 'Shit-BUSD LP',
+    lpSymbol: 'SHIT-BUSD LP',
     lpAddresses: {
       97: '0xDC6252e0D0C265edD682D482c1baf6F917796A04', // SHIT-BUSD LP
       56: '0xDC6252e0D0C265edD682D482c1baf6F917796A04', // SHIT-BUSD LP
@@ -49,12 +49,12 @@ const farms: FarmConfig[] = [
   },
   {
     pid: 3,
-    lpSymbol: 'Shit-CAKE LP',
+    lpSymbol: 'SHIT-CAKE LP',
     lpAddresses: {
       97: '0xE2DD1214a65a173Dce04372930Fc0a22F8df7f23', // SHIT-CAKE LP
       56: '0xE2DD1214a65a173Dce04372930Fc0a22F8df7f23', // SHIT-CAKE LP
     },
-    tokenSymbol: 'Shit',
+    tokenSymbol: 'SHIT',
     tokenAddresses: {
       97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
       56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT

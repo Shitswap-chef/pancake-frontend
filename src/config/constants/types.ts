@@ -34,6 +34,7 @@ export enum QuoteToken {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   'Shit' = 'Shit',
 =======
 =======
@@ -43,6 +44,9 @@ export enum QuoteToken {
   'MILK' = 'MILK',
   'SHIT' = 'SHIT',
 >>>>>>> parent of 4e5cb94... Update
+=======
+  'SHIT' = 'SHIT',
+>>>>>>> parent of 129658b... Update maj
 }
 
 export enum PoolCategory {
