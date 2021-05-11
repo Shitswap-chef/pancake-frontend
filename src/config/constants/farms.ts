@@ -9,7 +9,7 @@ const farms: FarmConfig[] = [
       97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
       56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
     },
-    tokenSymbol: 'FOAM',
+    tokenSymbol: 'FOAM', 
     tokenAddresses: {
       97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
       56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT

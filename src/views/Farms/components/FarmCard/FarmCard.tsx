@@ -87,7 +87,7 @@ interface FarmCardProps {
   ethPrice?: BigNumber
   ethereum?: provider
   account?: string
-}
+} 
 
 const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice, ethPrice, ethereum, account }) => {
   const TranslateString = useI18n()
