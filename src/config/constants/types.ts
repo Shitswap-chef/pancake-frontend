@@ -33,8 +33,11 @@ export enum QuoteToken {
   'COMP' = 'COMP',
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   'Shit' = 'Shit',
 =======
+=======
+>>>>>>> parent of 4e5cb94... Update
 =======
 >>>>>>> parent of 4e5cb94... Update
   'MILK' = 'MILK',
