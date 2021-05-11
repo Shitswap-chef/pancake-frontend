@@ -31,7 +31,12 @@ export enum QuoteToken {
   'UST' = 'UST',
   'ETH' = 'ETH',
   'COMP' = 'COMP',
+<<<<<<< HEAD
   'Shit' = 'Shit',
+=======
+  'MILK' = 'MILK',
+  'SHIT' = 'SHIT',
+>>>>>>> parent of 4e5cb94... Update
 }
 
 export enum PoolCategory {
