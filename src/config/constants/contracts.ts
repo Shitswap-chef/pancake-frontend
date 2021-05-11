@@ -1,7 +1,7 @@
 export default {
   cake: {
-    97: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82', // Same as Shit
-    56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
+    97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // Same as Shit
+    56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6',
   },
   shit: {
     97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6',
