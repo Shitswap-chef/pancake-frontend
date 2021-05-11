@@ -31,22 +31,8 @@ export enum QuoteToken {
   'UST' = 'UST',
   'ETH' = 'ETH',
   'COMP' = 'COMP',
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  'Shit' = 'Shit',
-=======
-=======
->>>>>>> parent of 4e5cb94... Update
-=======
->>>>>>> parent of 4e5cb94... Update
   'MILK' = 'MILK',
   'SHIT' = 'SHIT',
->>>>>>> parent of 4e5cb94... Update
-=======
-  'SHIT' = 'SHIT',
->>>>>>> parent of 129658b... Update maj
 }
 
 export enum PoolCategory {
