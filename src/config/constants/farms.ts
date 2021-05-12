@@ -12,7 +12,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'FOAM', 
     tokenAddresses: {
       97: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
-      56: '0x7115d4aBd6296E6C1B95Ca1ECc4e371e218E91D6', // SHIT
+      56: '0xE6f68D418EDb114338feE73b8f0f94DE320aC94A', // SHIT
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
