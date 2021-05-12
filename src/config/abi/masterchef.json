@@ -3,7 +3,7 @@
     "inputs": [
       {
         "internalType": "contract ShitToken",
-        "name": "_shit",
+        "name": "_Shit",
         "type": "address"
       },
       {
@@ -18,7 +18,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "_shitPerBlock",
+        "name": "_ShitPerBlock",
         "type": "uint256"
       },
       {
@@ -173,7 +173,7 @@
   },
   {
     "inputs": [],
-    "name": "shit",
+    "name": "Shit",
     "outputs": [
       {
         "internalType": "contract ShitToken",
@@ -187,7 +187,7 @@
   },
   {
     "inputs": [],
-    "name": "shitPerBlock",
+    "name": "ShitPerBlock",
     "outputs": [
       {
         "internalType": "uint256",
